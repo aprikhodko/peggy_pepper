@@ -1,0 +1,272 @@
+Allan
+
+
+
+Drive
+.
+Folder Path
+My Drive
+Peggys Pepper Non WP Site
+NEW 
+Folders and views
+My Drive
+Shared with me
+Google Photos
+Recent
+Starred
+Trash
+.
+Assets
+bootstrap-3.3.5-dist
+.
+
+Binary File
+.DS_Store
+
+HTML
+about_us.html
+
+HTML
+awesomeRoast.html
+
+HTML
+brieRaspberry.html
+
+HTML
+buy.html
+
+HTML
+chickenGlaze.html
+
+HTML
+contact.html
+
+HTML
+festiveCheeseBall.html
+
+HTML
+holidayCheese.html
+
+HTML
+kielbasa.html
+
+HTML
+lambChops.html
+
+HTML
+mangoSalmon.html
+
+HTML
+newsletter.html
+
+HTML
+PeggysPepperSite.html
+
+HTML
+porkTenderloin.html
+
+HTML
+products.html
+
+HTML
+promotion_chef_2.html
+
+HTML
+promotion_chef.html
+
+HTML
+promotion_home.html
+
+HTML
+recipes.html
+
+HTML
+sassyPBJ.html
+
+Javascript
+scripts.js
+
+HTML
+shrimpMarinade.html
+
+HTML
+stores.html
+
+Style Sheet
+styles.css
+
+HTML
+tortillaRoundSlices.html
+HTML
+products.html
+Details
+Activity
+LAST WEEK
+
+Youuploaded an item
+Jul 28
+HTML
+products.html
+No recorded activity before July 28, 2015
+Get Drive for PC
+562 MB used (3%)
+Buy more storage
+All selections cleared
+
+products.htmlOpen
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Products | Peggy's Pepper Jam</title>
+
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Users/design/Desktop/Peggys Pepper Non WP Site/styles.css">
+    <link href='http://fonts.googleapis.com/css?family=Economica:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+  </head>
+
+  <body>
+      <div id="gourmet-header"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/headerboard.png" /></div>
+
+    <!-- Start of NAVBAR -->
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>   
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li><a href="PeggysPepperSite.html" title="Home Page">Peggy's Peppers<span class="sr-only">(current)</span></a></li>
+            <li><a href="about_us.html" title="About Us Page">About Us</a></li>
+            <li class="active"><a href="products.html" title="Products Page">Products</a></li>
+            <li class="dropdown"><a href="recipes.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Recipes Page">Recipes <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="recipes.html" title="Recipes Main Page">Recipes - Main Page</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="awesomeRoast.html" title="Awesome Roast in a Crockpot">Awesome Roast in a Crockpot</a></li>
+                <li><a href="brieRaspberry.html" title="Brie and Raspberry Pepper Jelly in Pastry">Brie and Raspberry Pepper Jelly in Pastry</a></li>
+                <li><a href="chickenGlaze.html" title="Chicken Glaze">Chicken Glaze</a></li>
+                <li><a href="festiveCheeseBall.html" title="Festive Cheese Ball">Festive Cheese Ball</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="holidayCheese.html" title="Holiday Cheese Spread">Holiday Cheese Spread</a></li>
+                <li><a href="kielbasa.html" title="Kielbasa">Kielbasa</a></li>
+                <li><a href="lambChops.html" title="Lamb Chops">Lamb Chops</a></li>
+                <li><a href="mangoSalmon.html" title="Mango Salmon">Mango Salmon</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="porkTenderloin.html" title="Pork Tenderloin">Pork Tenderloin</a></li>
+                <li><a href="sassyPBJ.html" title="Sassy PB &amp; J">Sassy PB &amp; J</a></li>
+                <li><a href="shrimpMarinade.html" title="Erin's Snappy Shrimp Marinade">Erin's Snappy Shrimp Marinade</a></li>
+                <li><a href="tortillaRoundSlices.html" title="Tortilla Round Slices">Tortilla Round Slices</a></li>
+              </ul>
+            </li>
+            <li><a href="promotion_home.html" title="Promotion Page">Promotion</a></li>
+            <li><a href="stores.html" title="Stores Page">Stores</a></li>
+            <li><a href="buy.html" title="Buy Page">Buy</a></li>
+            <li><a href="contact.html" title="Contact Page">Contact</a></li>
+            <li><a href="newsletter.html" title="Media/Press Page">Media/Press</a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+
+  <img class="img-responsive" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/choppingPepper.jpg" />
+
+  <div class="container">
+    <div class="first-banner-descriptor">
+      <h2>THE MANY USES FOR PEGGYS JELLY</h2>
+      <p>Peggy's Peppers Pepper Jellies bring a level of sophistication to recipes and pair perfectly with wine and cheeses.</p>
+      <p>Made from family recipes, in small batches, using only the finest ingredients.</p>
+      <p>These Pepper Jellies are the ideal blend of sweet and hot, (not too sweet, not too hot, just right!) and appeal
+          to everyone that enjoys robust flavors with a twist. Plainly said, they taste just plain great!</p>
+      <P> And Peggy's are all natural, contain no preservatives or artificial colors or flavors, are gluten free and GMO free.</P>
+      <P>Add Peggy's to your shopping list and add some "WOW" to whatever you prepare!</p>
+    </div>
+  </div>
+
+  <img class="img-responsive jar-banner" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_OriginalProduct.jpg" />
+
+  <div class="container">
+    <div class="panel panel-default jelly-facts-border">
+      <div class="panel-body jelly-facts-panels">
+        <div class="row">
+          <div class="col-md-6"><h2 class="jelly-ingredients-facts-title"><label class="red">ORIGINAL</label> PEPPER JELLY</h2><p class="jelly-ingredients-facts">Get ready for a palate-pleasing punch of heat at the finish of this deceivingly sweet jelly! Using only the freshest ingredients, Peggy’s Original Pepper Jelly teases your taste buds and leaves you with a warm appetite for more. Layer this colorful jelly on cream cheese and crackers or top off cheese balls for a crowd pleasing appetizer. Make a quick marinade for beef, or seafood, or spread on your favorite deli sandwich.Peggy’s makes every dish more interesting!</p></div><div class="col-md-6 org-jelly-facts"><img class="img-responsive" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/org-jelly-facts.jpg"/></div>  
+        </div> 
+        <div class="row">
+          <div class="col-md-6 org-jelly-jar"><img class="img-responsive" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/org-jelly-jar.jpg"/></div><div class="col-md-6 nute-facts"><h4>INGREDIENTS</h4><p>Sugar, Peppers, Vinegar, Pectin, Citric Acid</br><br>ALL NATURAL</br>GLUTEN FREE</br>NO PRESERVATIVES</br>GMO FREE</br>MADE IN USA</p></div>  
+        </div> 
+        <div class="row social-media-icons">
+          <div class="col-md-6"><h4>SHARE THIS:</h4><span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/Facebook.jpg" /></a></span>
+            <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/google.jpg" /></a></span>
+            <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/twitter.jpg" /></a></span>
+            <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/Pinterest.jpg" /></a></span></div>
+      </div> 
+    </div>
+  </div> 
+</div>
+
+  <img class="img-responsive jar-banner" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_MangoProduct.jpg" />
+
+  <div class="container">
+    <div class="panel panel-default jelly-facts-border">
+      <div class="panel-body jelly-facts-panels">
+        <div class="row">
+          <div class="col-md-6"><h2 class="jelly-ingredients-facts-title"><label class="orange">MANGO</label> PEPPER JELLY</h2><p class="jelly-ingredients-facts">A perfect blend of sweet mangos and savory peppers deliver a scrumptious balance of sweet and hot to this jelly. Chunks of mellow mango pulp send your taste buds to the tropics upon initial contact and the push of peppery heat reminds you that this isn't your typical jelly. Spread Peggy's Mango Pepper Jelly generously over your favorite cheese, based on chicken, fish, or pork, use as a dip for fried veggies and stir into rice for a quick staple with tons of flavor. Peggy's makes every dish more interesting!</p></div><div class="col-md-6 org-jelly-facts"><img class="img-responsive" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/mango-jelly-facts.jpg"/></div>  
+        </div> 
+        <div class="row">
+            <div class="col-md-6 org-jelly-jar"><img class="img-responsive" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/mango-jelly-jar.jpg"/></div><div class="col-md-6 nute-facts"><h4>INGREDIENTS</h4><p>Sugar, Peppers, Mango, Vinegar, Pectin, Citric Acid</br><br>ALL NATURAL</br>GLUTEN FREE</br>NO PRESERVATIVES</br>GMO FREE</br>MADE IN USA</p></div>  
+        </div> 
+        <div class="row social-media-icons">
+            <div class="col-md-6"><h4>SHARE THIS:</h4><span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/Facebook.jpg" /></a></span>
+            <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/google.jpg" /></a></span>
+            <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/twitter.jpg" /></a></span>
+            <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/Pinterest.jpg" /></a></span></div>
+      </div> 
+    </div>
+  </div> 
+</div>
+
+  <img class="img-responsive jar-banner" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_RaspberryProduct.jpg" />
+
+  <div class="container">
+    <div class="panel panel-default jelly-facts-border">
+      <div class="panel-body jelly-facts-panels">
+        <div class="row">
+          <div class="col-md-6"><h2 class="jelly-ingredients-facts-title"><label class="purple">RASPBERRY</label> PEPPER JELLY</h2><p class="jelly-ingredients-facts">This well-balanced fusion of raspberries and peppers will satisfy your cravings for sweet and hot all in one bite. An initial tart sweetness of succulent raspberry jam is quickly followed by a fresh fieriness that only Peggy's knows how to deliver. Slather Peggy's Raspberry Pepper Jelly on peanut butter toast, in brie cheese puff pastry, as a glaze on turkey or ham or top desserts like thumbprint cookies and cheese cake. Peggy's makes every dish more interesting!</p></div><div class="col-md-6 org-jelly-facts"><img class="img-responsive" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/raspberry-jelly-facts.jpg"/></div>  
+        </div> 
+        <div class="row">
+            <div class="col-md-6 org-jelly-jar"><img class="img-responsive" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/raspberry-jelly-jar.jpg"/></div><div class="col-md-6 nute-facts"><h4>INGREDIENTS</h4><p>Sugar, Peppers, Vinegar, Pectin, Citric Acid</br><br>ALL NATURAL</br>GLUTEN FREE</br>NO PRESERVATIVES</br>GMO FREE</br>MADE IN USA</p></div>  
+        </div> 
+        <div class="row social-media-icons">
+            <div class="col-md-6"><h4>SHARE THIS:</h4><span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/Facebook.jpg" /></a></span>
+            <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/google.jpg" /></a></span>
+            <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/twitter.jpg" /></a></span>
+            <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/Pinterest.jpg" /></a></span></div>
+      </div> 
+    </div>
+  </div> 
+</div>
+
+  <footer>
+      <p>© 2015 Peggy’s Pepper LLC  <br>  Info@peggyspeppers.com</p>
+  </footer>
+
+     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="scripts.js" type="text/javascript"></script>
+  </body>
+</html>
