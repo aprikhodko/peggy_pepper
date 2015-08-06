@@ -1,0 +1,330 @@
+Allan
+
+
+
+Drive
+.
+Folder Path
+My Drive
+Peggys Pepper Non WP Site
+NEW 
+Folders and views
+My Drive
+Shared with me
+Google Photos
+Recent
+Starred
+Trash
+.
+Assets
+bootstrap-3.3.5-dist
+.
+
+Binary File
+.DS_Store
+
+HTML
+about_us.html
+
+HTML
+awesomeRoast.html
+
+HTML
+brieRaspberry.html
+
+HTML
+buy.html
+
+HTML
+chickenGlaze.html
+
+HTML
+contact.html
+
+HTML
+festiveCheeseBall.html
+
+HTML
+holidayCheese.html
+
+HTML
+kielbasa.html
+
+HTML
+lambChops.html
+
+HTML
+mangoSalmon.html
+
+HTML
+newsletter.html
+
+HTML
+PeggysPepperSite.html
+
+HTML
+porkTenderloin.html
+
+HTML
+products.html
+
+HTML
+promotion_chef_2.html
+
+HTML
+promotion_chef.html
+
+HTML
+promotion_home.html
+
+HTML
+recipes.html
+
+HTML
+sassyPBJ.html
+
+Javascript
+scripts.js
+
+HTML
+shrimpMarinade.html
+
+HTML
+stores.html
+
+Style Sheet
+styles.css
+
+HTML
+tortillaRoundSlices.html
+HTML
+PeggysPepperSite.html
+Details
+Activity
+LAST WEEK
+
+Youuploaded an item
+Jul 28
+HTML
+PeggysPepperSite.html
+No recorded activity before July 28, 2015
+Get Drive for PC
+562 MB used (3%)
+Buy more storage
+
+PeggysPepperSite.htmlOpen
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta description="Peggy's Pepper Jam just may be the new secret ingredient to spice up your next meal. Click on to find out more about our delicious jellies."/>
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Home | Peggy's Pepper Jam</title>
+
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Users/design/Desktop/Peggys Pepper Non WP Site/styles.css">
+    <link href='http://fonts.googleapis.com/css?family=Economica:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  </head>
+
+  <body>
+      <div id="gourmet-header"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/headerboard.png" /></div>
+
+    <!-- Start of NAVBAR -->
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>   
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#" title="Home Page">Peggy's Peppers<span class="sr-only">(current)</span></a></li>
+            <li><a href="about_us.html" title="About Us Page">About Us</a></li>
+            <li><a href="products.html" title="Products Page">Products</a></li>
+            <li class="dropdown"><a href="recipes.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Recipes Page">Recipes <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="recipes.html" title="Recipes Main Page">Recipes - Main Page</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="awesomeRoast.html" title="Awesome Roast in a Crockpot">Awesome Roast in a Crockpot</a></li>
+                <li><a href="brieRaspberry.html" title="Brie and Raspberry Pepper Jelly in Pastry">Brie and Raspberry Pepper Jelly in Pastry</a></li>
+                <li><a href="chickenGlaze.html" title="Chicken Glaze">Chicken Glaze</a></li>
+                <li><a href="festiveCheeseBall.html" title="Festive Cheese Ball">Festive Cheese Ball</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="holidayCheese.html" title="Holiday Cheese Spread">Holiday Cheese Spread</a></li>
+                <li><a href="kielbasa.html" title="Kielbasa">Kielbasa</a></li>
+                <li><a href="lambChops.html" title="Lamb Chops">Lamb Chops</a></li>
+                <li><a href="mangoSalmon.html" title="Mango Salmon">Mango Salmon</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="porkTenderloin.html" title="Pork Tenderloin">Pork Tenderloin</a></li>
+                <li><a href="sassyPBJ.html" title="Sassy PB &amp; J">Sassy PB &amp; J</a></li>
+                <li><a href="shrimpMarinade.html" title="Erin's Snappy Shrimp Marinade">Erin's Snappy Shrimp Marinade</a></li>
+                <li><a href="tortillaRoundSlices.html" title="Tortilla Round Slices">Tortilla Round Slices</a></li>
+              </ul>
+            </li>
+            <li><a href="promotion_home.html" title="Promotion Page">Promotion</a></li>
+            <li><a href="stores.html" title="Stores Page">Stores</a></li>
+            <li><a href="buy.html" title="Buy Page">Buy</a></li>
+            <li><a href="contact.html" title="Contact Page">Contact</a></li>
+            <li><a href="newsletter.html" title="Media/Press Page">Media/Press</a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+    
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+      <!-- Front-Page Slides -->
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_1layeredslide.jpg" alt="Welcome to Peggy's Peppers">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_3layeredslide.jpg" alt="Celebration">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_4layeredslide.jpg" alt="No Preservatives, Gluten and GMO Free, All Natural">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_5layeredslide.jpg" alt="How do you use your pepper jelly?">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_6layeredslide.jpg" alt="Toppings">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_7layeredslide.jpg" alt="Marinade">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_8layeredslide.jpg" alt="Marinade 2">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_9layeredslide.jpg" alt="Spread">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_10layeredslide.jpg" alt="Spread 2">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_11layeredslide.jpg" alt="Menu">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_12layeredslide.jpg" alt="Sampler">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_13layeredslide.jpg" alt="Celebration 2">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_14layeredslide.jpg" alt="Spread 3">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_15layeredslide.jpg" alt="Appetizers">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_17layeredslide.jpg" alt="Dollop">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_18layeredslide.jpg" alt="Appetizers 2">
+        </div>
+        <div class="item">
+          <img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/PP_HomePage_19layeredslide.jpg" alt="Sampler 2">
+        </div>
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+
+    <!-- Social Media Icons -->
+    <div class="container-fluid">
+      <div class="row">
+        <div class="social-icons">
+          <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/Facebook.jpg" /></a></span>
+          <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/google.jpg" /></a></span>
+          <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/twitter.jpg" /></a></span>
+          <span><a href="#"><img src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/Pinterest.jpg" /></a></span>
+        </div>  
+      </div>
+    <div>  
+
+      <div class="container-fluid featured-recipe">
+        <div class="row">
+          <img class="col-md-4 img-responsive pull-left featured-recipe-img" src="/Users/design/Desktop/Peggys Pepper Non WP Site/Assets/Cheese ball.jpg" />
+            <div class="col-md-8 text-right">
+              <h2>Holiday Cheese Spread</h2>
+              <p>Mix all ingredients except Peggy’s Pepper Jelly.
+                  This Holiday Cheese Spread recipe will soon become
+                  your favorite Holiday Appetizer! So fast and easy to
+                  prepare, it is always the most popular hors d'oeuvre at
+                  any gathering. Check out how to make our cheese
+                  spread and become the "hostess with the mostest!"</p>
+                  <a class="btn btn-default" href="holidayCheese.html" role="button">View Full Recipes</a>
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <ul class="list-group">
+      <div class="row">
+        <div class="intro-box col-lg-4 list-group-item">
+          <p>Peggy's Pepper Jelly adds a gourmet
+              flair to everything you prepare. The
+              go-to for unique appetizers, and learn
+              how to add zip to everyday favorites
+              and family meals. See recipes using all
+              our Pepper Jelly varieties.</p>
+          <h2>RECIPES</h2>
+          </br>
+        </div><!-- /.col-lg-4 -->
+        <div class="intro-box col-lg-4 list-group-item">
+          <p>Peggy's Peppers Pepper Jelly has a
+              sophisticated taste, a perfect blend of
+              sweet and hot. Made from family recipes
+              using only the finest ingredients; no
+              preservatives, gluten free and the best darn
+              Pepper Jellies you may ever taste!
+              Learn more about the products here.</p>
+          <h2>PRODUCTS</h2>
+        </div><!-- /.col-lg-4 -->
+        <div class="intro-box col-lg-4 list-group-item">
+          <p>We would love to connect with you.
+              Share your recipes and love for Peggy's
+              Peppers with the world!Like us on
+              Facebook, Pinterest and all the social
+              media outlets.</p>
+          <h2>SOCIAL</h2>
+          </br>
+          </br>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->  
+      </ul>
+    </div><!-- End of marketing container -->
+  </div>
+
+    <footer>
+      <p>© 2015 Peggy’s Pepper LLC  <br>  Info@peggyspeppers.com</p>
+    </footer>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="scripts.js" type="text/javascript"></script>
+  </body>
+</html>
